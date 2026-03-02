@@ -22,7 +22,7 @@
 
 Computer Science & Mathematics student at Eastern Mediterranean University (high honors), exploring the intersection of logic and creativity. I build interactive, visually clean projects from portfolio sites with SVG animations, Unity games with complex systems, to a sign language interpreter. Learning by building is how I thrive.
 
-Proud Palestinian, Arabic native, 20 years old, always moving fast.
+Proud Palestinian, Arabic native, 21 years old, always moving fast.
 
 > *"Don't plan it to death. Ship it, break it, understand it."*
 
