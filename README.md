@@ -20,9 +20,9 @@
 
 ## `> whoami`
 
-Computer Science & Mathematics student at **Eastern Mediterranean University** (high honors), based in the intersection of logic and creativity. I build interactive, visually clean projects — from portfolio sites with SVG animations to Unity games with complex systems. Learning by building is the only method that works for me.
+Computer Science & Mathematics student at Eastern Mediterranean University (high honors), exploring the intersection of logic and creativity. I build interactive, visually clean projects from portfolio sites with SVG animations, Unity games with complex systems, to a sign language interpreter. Learning by building is how I thrive.
 
-Half from Beit Sahour, half from Bethlehem. Arabic-native. 20 years old and moving fast.
+Proud Palestinian, Arabic native, 20 years old, always moving fast.
 
 > *"Don't plan it to death. Ship it, break it, understand it."*
 
@@ -57,10 +57,10 @@ Half from Beit Sahour, half from Bethlehem. Arabic-native. 20 years old and movi
 │   ├── Smooth page transitions + subtle animations
 │   └── Built from scratch — no templates
 │
-└── 🤖 gesture-recognition-tool/
-    ├── Computer vision — detects hand gestures in real time
-    ├── Maps gestures → cursor movements & system commands
-    ├── Exploring interactive control without peripherals
+└── 🤖 sign-language-interpreter/
+    ├── Real-time computer vision → recognizes sign language gestures
+    ├── Translates gestures → text or interactive commands
+    ├── Focused on accessibility & communication without barriers
     └── Stack: Python + ML (actively experimenting)
 ```
 
