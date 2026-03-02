@@ -71,8 +71,6 @@ Half from Beit Sahour, half from Bethlehem. Arabic-native. 20 years old and movi
 <div align="center">
 
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michealmou&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=michealmou&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=f0c040&currStreakLabel=58a6ff&background=0d1117" />
