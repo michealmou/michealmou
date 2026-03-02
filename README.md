@@ -34,7 +34,7 @@ Half from Beit Sahour, half from Bethlehem. Arabic-native. 20 years old and movi
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,python,java&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms**
 
